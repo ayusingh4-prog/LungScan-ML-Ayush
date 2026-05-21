@@ -1,6 +1,6 @@
 # Lung Cancer Detection Using Machine Learning
 
-An AI-powered Lung Cancer Detection system that uses Deep Learning and Medical Image Processing techniques to analyze CT scan images and predict whether lung nodules are Benign or Malignant.
+LungScan-ML-Ayush is a PyTorch and Streamlit medical imaging project featuring a custom CNN, CT preprocessing, Grad-CAM explainability, and PDF report generation to classify lung nodules from CT images as benign or malignant in a local web app.
 
 This project aims to assist in the early detection of lung cancer, helping improve diagnosis speed and accuracy through Machine Learning.
 
